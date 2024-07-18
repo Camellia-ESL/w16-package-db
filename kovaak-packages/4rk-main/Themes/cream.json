@@ -1,0 +1,110 @@
+{
+	"themeName": "cream",
+	"wallMaterial": "BRICK GREY",
+	"wallRoughness": 0.53615808486938477,
+	"wallMetallic": 1,
+	"wallFullBright": 0,
+	"wallTint":
+	{
+		"x": 0.366252601146698,
+		"y": 0.366252601146698,
+		"z": 0.366252601146698
+	},
+	"wallTextureScale": 1,
+	"floorMaterial": "WOOD FLOOR WALNUT",
+	"floorRoughness": 0.36715573072433472,
+	"floorMetallic": 1,
+	"floorFullBright": 0,
+	"floorTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"floorTextureScale": 1,
+	"ceilingMaterial": "WOOD FLOOR WALNUT",
+	"ceilingRoughness": 0.37127763032913208,
+	"ceilingMetallic": 1,
+	"ceilingFullBright": 0,
+	"ceilingTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"ceilingTextureScale": 1,
+	"rampMaterial": "WOOD FLOOR WALNUT",
+	"rampRoughness": 0,
+	"rampMetallic": 1,
+	"rampFullBright": 0.8399999737739563,
+	"rampTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"rampTextureScale": 1,
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 1,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 0.065573766827583313,
+	"enemyHeadColor":
+	{
+		"x": 1,
+		"y": 0.17100000381469727,
+		"z": 0.17100000381469727
+	},
+	"enemyHeadColorOnHit":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyHeadColorOnLookAt":
+	{
+		"x": 1,
+		"y": 0.72699999809265137,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 1,
+		"y": 0.17100000381469727,
+		"z": 0.17100000381469727
+	},
+	"enemyBodyColorOnHit":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColorOnLookAt":
+	{
+		"x": 1,
+		"y": 0.72699999809265137,
+		"z": 0
+	},
+	"changeEnemyColorOnHit": false,
+	"changeEnemyColorOnLookAt": false,
+	"teamGlowUpHead": 130.60000610351562,
+	"teamGlowUpBody": 1,
+	"enemyGlowUpHead": 15,
+	"enemyGlowUpBody": 15,
+	"enemyGlowUpHeadOnHit": 1,
+	"enemyGlowUpBodyOnHit": 1,
+	"enemyGlowUpHeadOnLookAt": 1,
+	"enemyGlowUpBodyOnLookAt": 50,
+	"skyPresetId": 7,
+	"cloudCoverId": 3,
+	"solidSkyColor": false,
+	"sunVisible": false,
+	"skyColor":
+	{
+		"b": 255,
+		"g": 255,
+		"r": 255,
+		"a": 255
+	}
+}
