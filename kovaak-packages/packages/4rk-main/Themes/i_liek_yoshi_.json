@@ -1,0 +1,52 @@
+{
+	"themeName": "i liek yoshi ",
+	"wallMaterial": "BRICK DARK",
+	"wallRoughness": 1,
+	"wallMetallic": 1,
+	"wallFullBright": 1,
+	"wallTint":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"floorMaterial": "DRYWALL",
+	"floorRoughness": 1,
+	"floorMetallic": 1,
+	"floorFullBright": 1,
+	"floorTint":
+	{
+		"x": 0.12743768095970154,
+		"y": 0.12743768095970154,
+		"z": 0.12743768095970154
+	},
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.62999999523162842,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 0.64999997615814209,
+	"enemyHeadColor":
+	{
+		"x": 0.0060488330200314522,
+		"y": 0.61049556732177734,
+		"z": 0.2015562504529953
+	},
+	"enemyBodyColor":
+	{
+		"x": 0.0060488330200314522,
+		"y": 0.61049556732177734,
+		"z": 0.2015562504529953
+	},
+	"skyPresetId": 1,
+	"cloudCoverId": 2,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 124,
+		"g": 205,
+		"r": 18,
+		"a": 255
+	}
+}
