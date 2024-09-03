@@ -1,60 +1,60 @@
 {
-	"themeName": "clover-pure",
-	"wallMaterial": "PURE COLOR",
-	"wallRoughness": 1,
-	"wallMetallic": 1,
-	"wallFullBright": 0.70571953058242798,
+	"themeName": "pinkblusteel fixed",
+	"wallMaterial": "GREY WOOD BOARD",
+	"wallRoughness": 0.2199999988079071,
+	"wallMetallic": 0.5,
+	"wallFullBright": 0.5,
 	"wallTint":
 	{
-		"x": 0.38642942905426025,
-		"y": 0.38642942905426025,
-		"z": 0.38642942905426025
+		"x": 0.56471151113510132,
+		"y": 0.62396037578582764,
+		"z": 0.76052451133728027
 	},
 	"wallTextureScale": 1,
-	"floorMaterial": "GRID 64",
+	"floorMaterial": "MARBLE POLISHED",
 	"floorRoughness": 1,
 	"floorMetallic": 1,
 	"floorFullBright": 1,
 	"floorTint":
 	{
-		"x": 0.38642942905426025,
-		"y": 0.38642942905426025,
-		"z": 0.38642942905426025
+		"x": 0.10702310502529144,
+		"y": 0.11953842639923096,
+		"z": 0.18447498977184296
 	},
 	"floorTextureScale": 1,
-	"ceilingMaterial": "GRID 64",
+	"ceilingMaterial": "MARBLE POLISHED",
 	"ceilingRoughness": 1,
 	"ceilingMetallic": 1,
 	"ceilingFullBright": 1,
 	"ceilingTint":
 	{
-		"x": 0.38642942905426025,
-		"y": 0.38642942905426025,
-		"z": 0.38642942905426025
+		"x": 0.10702310502529144,
+		"y": 0.11953842639923096,
+		"z": 0.18447498977184296
 	},
 	"ceilingTextureScale": 1,
-	"rampMaterial": "GRID 64",
-	"rampRoughness": 1,
-	"rampMetallic": 1,
-	"rampFullBright": 1,
+	"rampMaterial": "GREY WOOD BOARD",
+	"rampRoughness": 0.2199999988079071,
+	"rampMetallic": 0.5,
+	"rampFullBright": 0.5,
 	"rampTint":
 	{
-		"x": 0.38642942905426025,
-		"y": 0.38642942905426025,
-		"z": 0.38642942905426025
+		"x": 0.56471151113510132,
+		"y": 0.62396037578582764,
+		"z": 0.76052451133728027
 	},
 	"rampTextureScale": 1,
-	"overrideEnemyHeadColor": true,
+	"overrideEnemyHeadColor": false,
 	"overrideEnemyBodyColor": true,
 	"setEnemyBodyColorAsAttackColor": false,
-	"enemyColorRoughness": 1,
-	"enemyColorMetallic": 1,
-	"enemyColorFullBright": 1,
+	"enemyColorRoughness": 0.69999998807907104,
+	"enemyColorMetallic": 0,
+	"enemyColorFullBright": 0.60000002384185791,
 	"enemyHeadColor":
 	{
-		"x": 0,
-		"y": 0,
-		"z": 0
+		"x": 1,
+		"y": 1,
+		"z": 1
 	},
 	"enemyHeadColorOnHit":
 	{
@@ -70,9 +70,9 @@
 	},
 	"enemyBodyColor":
 	{
-		"x": 0,
-		"y": 0,
-		"z": 0
+		"x": 1,
+		"y": 1,
+		"z": 1
 	},
 	"enemyBodyColorOnHit":
 	{
@@ -102,9 +102,9 @@
 	"sunVisible": false,
 	"skyColor":
 	{
-		"b": 255,
-		"g": 255,
-		"r": 255,
+		"b": 140,
+		"g": 119,
+		"r": 109,
 		"a": 255
 	}
 }

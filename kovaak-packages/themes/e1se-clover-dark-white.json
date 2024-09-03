@@ -1,60 +1,60 @@
 {
-	"themeName": "clover-pure",
-	"wallMaterial": "PURE COLOR",
+	"themeName": "e1se-clover-dark-white",
+	"wallMaterial": "WHITE WOOD BOARD",
 	"wallRoughness": 1,
-	"wallMetallic": 1,
-	"wallFullBright": 0.70571953058242798,
+	"wallMetallic": 0.87000000476837158,
+	"wallFullBright": 1,
 	"wallTint":
 	{
-		"x": 0.38642942905426025,
-		"y": 0.38642942905426025,
-		"z": 0.38642942905426025
+		"x": 0.045186202973127365,
+		"y": 0.045186202973127365,
+		"z": 0.045186202973127365
 	},
 	"wallTextureScale": 1,
-	"floorMaterial": "GRID 64",
-	"floorRoughness": 1,
+	"floorMaterial": "MARBLE POLISHED",
+	"floorRoughness": 0,
 	"floorMetallic": 1,
 	"floorFullBright": 1,
 	"floorTint":
 	{
-		"x": 0.38642942905426025,
-		"y": 0.38642942905426025,
-		"z": 0.38642942905426025
+		"x": 0.045186202973127365,
+		"y": 0.045186202973127365,
+		"z": 0.045186202973127365
 	},
 	"floorTextureScale": 1,
-	"ceilingMaterial": "GRID 64",
-	"ceilingRoughness": 1,
+	"ceilingMaterial": "MARBLE POLISHED",
+	"ceilingRoughness": 0,
 	"ceilingMetallic": 1,
 	"ceilingFullBright": 1,
 	"ceilingTint":
 	{
-		"x": 0.38642942905426025,
-		"y": 0.38642942905426025,
-		"z": 0.38642942905426025
+		"x": 0.045186202973127365,
+		"y": 0.045186202973127365,
+		"z": 0.045186202973127365
 	},
-	"ceilingTextureScale": 1,
-	"rampMaterial": "GRID 64",
+	"ceilingTextureScale": 1.0399999618530273,
+	"rampMaterial": "WHITE WOOD BOARD",
 	"rampRoughness": 1,
 	"rampMetallic": 1,
-	"rampFullBright": 1,
+	"rampFullBright": 0.8399999737739563,
 	"rampTint":
 	{
-		"x": 0.38642942905426025,
-		"y": 0.38642942905426025,
-		"z": 0.38642942905426025
+		"x": 0.045186202973127365,
+		"y": 0.045186202973127365,
+		"z": 0.045186202973127365
 	},
 	"rampTextureScale": 1,
 	"overrideEnemyHeadColor": true,
 	"overrideEnemyBodyColor": true,
 	"setEnemyBodyColorAsAttackColor": false,
 	"enemyColorRoughness": 1,
-	"enemyColorMetallic": 1,
+	"enemyColorMetallic": 0,
 	"enemyColorFullBright": 1,
 	"enemyHeadColor":
 	{
-		"x": 0,
-		"y": 0,
-		"z": 0
+		"x": 1,
+		"y": 1,
+		"z": 1
 	},
 	"enemyHeadColorOnHit":
 	{
@@ -70,9 +70,9 @@
 	},
 	"enemyBodyColor":
 	{
-		"x": 0,
-		"y": 0,
-		"z": 0
+		"x": 1,
+		"y": 1,
+		"z": 1
 	},
 	"enemyBodyColorOnHit":
 	{
@@ -83,28 +83,28 @@
 	"enemyBodyColorOnLookAt":
 	{
 		"x": 1,
-		"y": 0.7758222222328186,
+		"y": 1,
 		"z": 0
 	},
 	"changeEnemyColorOnHit": false,
 	"changeEnemyColorOnLookAt": false,
 	"teamGlowUpHead": 1,
 	"teamGlowUpBody": 1,
-	"enemyGlowUpHead": 1,
-	"enemyGlowUpBody": 1,
+	"enemyGlowUpHead": 4,
+	"enemyGlowUpBody": 4,
 	"enemyGlowUpHeadOnHit": 1,
 	"enemyGlowUpBodyOnHit": 1,
 	"enemyGlowUpHeadOnLookAt": 1,
-	"enemyGlowUpBodyOnLookAt": 1000,
+	"enemyGlowUpBodyOnLookAt": 1,
 	"skyPresetId": 8,
 	"cloudCoverId": 0,
 	"solidSkyColor": false,
 	"sunVisible": false,
 	"skyColor":
 	{
-		"b": 255,
-		"g": 255,
-		"r": 255,
+		"b": 79,
+		"g": 79,
+		"r": 79,
 		"a": 255
 	}
 }
